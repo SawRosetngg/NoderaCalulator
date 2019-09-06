@@ -1,0 +1,23 @@
+{
+  "name": "noderacalculator",
+  "version": "1.0.0",
+  "description": "My first nodera calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SawRosetngg/NoderaCalulator.git"
+  },
+  "keywords": [
+    "Node",
+    "calculator"
+  ],
+  "author": "sawroset",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SawRosetngg/NoderaCalulator/issues"
+  },
+  "homepage": "https://github.com/SawRosetngg/NoderaCalulator#readme"
+}
