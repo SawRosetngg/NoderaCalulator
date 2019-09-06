@@ -1,8 +1,7 @@
-var calculate=function(a,b,p) {
+var calc=function(a,b,p) {
     if(a==="" || b==="" || p==="") {
         return "Please provide all parameters";
     }
-    
     switch(p) {
         case '+': {
             return a+b;
@@ -23,5 +22,4 @@ var calculate=function(a,b,p) {
         default:{return;}
     }
 }
-
-module.exports = calculate;
+exports.calc=calc; //very important line
